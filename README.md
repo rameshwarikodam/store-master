@@ -1,5 +1,3 @@
-# store-master
-
 # Create a REST API for a Store. 
 That should have following features.
 # Required tasks:
